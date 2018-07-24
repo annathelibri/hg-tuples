@@ -1,2 +1,2 @@
-# hg-tuples
-Parser of HungerGames Action File format
+# HG-Tuples
+Lexer/Parser of HungerGames' Action File format
