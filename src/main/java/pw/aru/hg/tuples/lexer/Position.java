@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package pw.aru.hungergames.tuples.lexer;
+package pw.aru.hg.tuples.lexer;
 
 import java.util.Objects;
 

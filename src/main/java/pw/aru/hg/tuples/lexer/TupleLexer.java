@@ -14,14 +14,14 @@
  *  limitations under the License.
  */
 
-package pw.aru.hungergames.tuples.lexer;
+package pw.aru.hg.tuples.lexer;
 
-import pw.aru.hungergames.tuples.SyntaxException;
+import pw.aru.hg.tuples.SyntaxException;
 
 import java.io.InputStream;
 import java.io.Reader;
 
-import static pw.aru.hungergames.tuples.lexer.TokenType.*;
+import static pw.aru.hg.tuples.lexer.TokenType.*;
 
 public class TupleLexer extends Lexer<Token> {
 

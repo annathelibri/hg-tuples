@@ -1,11 +1,11 @@
-package pw.aru.hungergames.tuples;
+package pw.aru.hg.tuples;
 
 import org.intellij.lang.annotations.MagicConstant;
-import pw.aru.hungergames.tuples.data.*;
-import pw.aru.hungergames.tuples.lexer.Position;
-import pw.aru.hungergames.tuples.lexer.Token;
-import pw.aru.hungergames.tuples.lexer.TokenType;
-import pw.aru.hungergames.tuples.lexer.TupleLexer;
+import pw.aru.hg.tuples.data.*;
+import pw.aru.hg.tuples.lexer.Position;
+import pw.aru.hg.tuples.lexer.Token;
+import pw.aru.hg.tuples.lexer.TokenType;
+import pw.aru.hg.tuples.lexer.TupleLexer;
 
 import java.util.LinkedList;
 import java.util.List;

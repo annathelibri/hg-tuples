@@ -1,4 +1,4 @@
-package pw.aru.hungergames.tuples;
+package pw.aru.hg.tuples;
 
 /**
  * Lists of flags available to use on {@link TupleParser}.

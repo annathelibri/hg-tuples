@@ -1,4 +1,4 @@
-package pw.aru.hungergames.tuples.data;
+package pw.aru.hg.tuples.data;
 
 import java.util.LinkedList;
 

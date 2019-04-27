@@ -14,9 +14,9 @@
  *  limitations under the License.
  */
 
-package pw.aru.hungergames.tuples;
+package pw.aru.hg.tuples;
 
-import pw.aru.hungergames.tuples.lexer.Position;
+import pw.aru.hg.tuples.lexer.Position;
 
 public class SyntaxException extends RuntimeException {
     public SyntaxException(String msg) {

@@ -1,6 +1,6 @@
-package pw.aru.hungergames.tuples.lexer;
+package pw.aru.hg.tuples.lexer;
 
-import pw.aru.hungergames.tuples.SyntaxException;
+import pw.aru.hg.tuples.SyntaxException;
 
 import java.io.*;
 import java.util.LinkedList;

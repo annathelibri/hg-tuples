@@ -1,6 +1,6 @@
-package pw.aru.hungergames.tuples.data;
+package pw.aru.hg.tuples.data;
 
-import pw.aru.hungergames.tuples.TupleParser;
+import pw.aru.hg.tuples.TupleParser;
 
 import java.util.Optional;
 

@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package pw.aru.hungergames.tuples.lexer;
+package pw.aru.hg.tuples.lexer;
 
 public final class Token {
     private final Position position;

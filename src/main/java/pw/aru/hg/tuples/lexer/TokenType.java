@@ -1,4 +1,4 @@
-package pw.aru.hungergames.tuples.lexer;
+package pw.aru.hg.tuples.lexer;
 
 public enum TokenType {
     /**
